@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(del \"D:\\Employee_exam\\employee_management.dart\")"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
